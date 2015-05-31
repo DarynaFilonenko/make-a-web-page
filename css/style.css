@@ -1,0 +1,34 @@
+h1{
+  text-align:center;
+  color:purple;
+}
+h2{
+  text-align:center;
+  color:purple;
+}  
+body{
+  font-family:fantacy;
+  background:grey;
+}   
+.lesson{
+  background:pink;
+  border-radius:20px;
+  color:purple;
+  padding:10px;
+}  
+.concept-title{
+  font-size:25px;
+  font-weight:bold;
+  text-align:center;
+}
+.concept-description{
+   font-weight:lighter;
+   margin:6px;
+}
+.italic{
+  font-style:italic;
+}
+*{
+  box-sizing: border-box;
+} 
+  
